@@ -3,7 +3,7 @@ Gebze Technical University
 
 Graduation Project I - Fall 2017
 
-Instructor: Didem Gozupek Kocaman
+Instructor: Assoc. Prof. Didem Gozupek Kocaman
 
 Topic: Dynamic bandwidth management for Software Defined Networks (SDNs)
 
