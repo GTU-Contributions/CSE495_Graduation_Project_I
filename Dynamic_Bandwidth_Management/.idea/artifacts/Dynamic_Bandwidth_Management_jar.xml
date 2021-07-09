@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dynamic_Bandwidth_Management:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dynamic_Bandwidth_Management_jar</output-path>
+    <root id="archive" name="Dynamic_Bandwidth_Management.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/M/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Dynamic_Bandwidth_Management" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/xchart-3.5.0/xchart-3.5.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
